@@ -1,5 +1,5 @@
 
-![BikerCall](https://avatars0.githubusercontent.com/u/67833362?s=460&u=78af703692cfbc9f25a578eaeea411367dd328de&v=4)
+![BikerCall](https://github.com/therke/bikercall/blob/master/Pictures/bk.png?raw=true)
 
 # BikerCall 
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
