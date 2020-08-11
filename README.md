@@ -32,10 +32,10 @@
 
 > Public Team profiles
 
-| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
+| <a href="http://fvcproductions.com" target="_blank">**therke**</a> | <a href="http://fvcproductions.com" target="_blank">**PhilWililis**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
 | :---: |:---:| :---:|
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
-| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
+| [![therke](https://avatars0.githubusercontent.com/u/67833362?s=460&u=78af703692cfbc9f25a578eaeea411367dd328de&v=4)] (https://github.com/therke)    | [![PhilWililis](https://avatars2.githubusercontent.com/u/61602474?s=460&u=5241b6ba44a5b3a43820c609876479fed3eac4d9&v=4)](https://github.com/PhilWililis) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
+| <a href="https://github.com/therke" target="_blank">`github.com/therke`</a> | <a href="https://github.com/PhilWililis" target="_blank">`github.com/PhilWililis`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
 
 
 
@@ -90,7 +90,7 @@ Reach out to me at one of the following places!
 ## Issues
 
 Please use the Issue Templates and the badges.
-- Website at <a href="https://github.com/therke/bikercall/issues" target="_blank">`Create an Issue`</a>
+- <a href="https://github.com/therke/bikercall/issues" target="_blank">`Create an Issue`</a> 🐛
 
 ---
 
