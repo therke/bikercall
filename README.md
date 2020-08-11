@@ -5,7 +5,19 @@
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
 
 
-> Subtitle or Short Description Goes Here
+> You and your friends have a different motorcycle headset? And these are not compatible?
+
+Here comes the solution: BikerCall
+
+We offer you this possibility to phone each other and this completely only with Bluetooth! 
+
+Discover the app and much more or help us to make the app even better, faster and more effective ...
+
+Until then. Have a good trip :)  
+
+Status: Currently in development - therefore no app available yet
+
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
 ## Table of Contents
 
@@ -27,6 +39,8 @@
 
 [![iOS](https://www.pngkit.com/png/detail/222-2228956_app-store-logo-app-store-icon-white.png)](https://google.com)
 
+
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
 ## Team
 
@@ -70,6 +84,9 @@ Reach out to me at one of the following places!
 - 🔃 Create a new pull request using <a href="https://github.com/therke/bikercall/compare/" target="_blank">`https://github.com/therke/bikercall/compare/`</a>.
 
 
+> Help spread the Code Quality Love! ❤️
+> Please ⭐ this repo
+
 ---
 
 ## FAQ
@@ -108,7 +125,7 @@ Please use the Issue Templates and the badges.
 - Copyright 2020 © <a href="https://github.com/therke" target="_blank">therke</a>.
 - Copyright 2020 © <a href="https://vagueinteractive.com" target="_blank">Vague Interactive</a>.
 
-
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 ---
 
@@ -118,4 +135,8 @@ Please use the Issue Templates and the badges.
 
 
 ### Contributers
+
+
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
