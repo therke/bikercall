@@ -24,11 +24,11 @@ Status: Currently in development - therefore no app available yet
 > The Table of Contents of `BikerCall`.
 
 - [Installation](#installation)
-- [team](#team)
+- [Team](#team)
 - [Changelog](#changelog)
 - [Contributing](#contributing)
 - [FAQ](#faq)
-- [Support](#support)
+- [Issues](#issues)
 - [License](#license)
 
 
