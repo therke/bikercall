@@ -80,13 +80,16 @@ Reach out to me at one of the following places!
 
 - **Which language is supported?**
     - Currently German only.
+    
+- **Why are their two differnt Versions?**
+    - One time their is a free Version (Up to 4 devices) and one paid Version (up to 20 devices) to improve the App's and pay the running costs.
 
 
 ---
 
 ## Issues
 
-Please u se the Issue Templates and the badges.
+Please use the Issue Templates and the badges.
 - Website at <a href="https://github.com/therke/bikercall/issues" target="_blank">`Create an Issue`</a>
 
 ---
@@ -105,7 +108,8 @@ Please u se the Issue Templates and the badges.
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2020 © <a href="http://fvcproductions.com" target="_blank">Vague Interactive</a>.
+- Copyright 2020 © <a href="https://github.com/therke" target="_blank">therke</a>.
+- Copyright 2020 © <a href="https://vagueinteractive.com" target="_blank">Vague Interactive</a>.
 
 
 
@@ -116,5 +120,5 @@ Please u se the Issue Templates and the badges.
 ### Sponsors
 
 
-### Contributer
+### Contributers
 
