@@ -35,9 +35,7 @@ Status: Currently in development - therefore no app available yet
 
 ## Installation
 
-[![Android](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpBxqyPKGEpnQfUNtelM7R5eqo9svbdoXBpQ&usqp=CAU)](https://google.com)
-
-[![iOS](https://www.pngkit.com/png/detail/222-2228956_app-store-logo-app-store-icon-white.png)](https://google.com)
+[![Android](https://www.pngkey.com/png/detail/4-46030_digital-coming-soon-coming-soon-png-hd.png)](https://google.com)
 
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
