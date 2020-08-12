@@ -2,7 +2,7 @@
 ![BikerCall](https://github.com/therke/bikercall/blob/master/Pictures/bk.png?raw=true)
 
 # BikerCall 
-[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
+[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/therke/bikercall)
 
 
 > You and your friends have a different motorcycle headset? And these are not compatible?
@@ -17,7 +17,7 @@ Until then. Have a good trip :)
 
 Status: Currently in development - therefore no app available yet
 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/therke/bikercall)
 
 ## Table of Contents
 
@@ -35,18 +35,18 @@ Status: Currently in development - therefore no app available yet
 
 ## Installation
 
-[![Android](https://www.pngkey.com/png/detail/4-46030_digital-coming-soon-coming-soon-png-hd.png)](https://google.com)
+[![Android](https://www.pngkey.com/png/detail/4-46030_digital-coming-soon-coming-soon-png-hd.png)](https://github.com/therke/bikercall)
 
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/therke/bikercall)
 
 ## Team
 
 > Public Team profiles
 
 
-<a href="https://github.com/therke"><img src="https://avatars0.githubusercontent.com/u/67833362?s=460&u=78af703692cfbc9f25a578eaeea411367dd328de&v=4" title="ngryman" width="100" height="100"></a>
-<a href="https://github.com/PhilWililis"><img src="https://avatars2.githubusercontent.com/u/61602474?s=460&u=5241b6ba44a5b3a43820c609876479fed3eac4d9&v=4" title="ngryman" width="100" height="100"></a>
+<a href="https://github.com/therke"><img src="https://avatars0.githubusercontent.com/u/67833362?s=460&u=78af703692cfbc9f25a578eaeea411367dd328de&v=4" title="therke" width="100" height="100"></a>
+<a href="https://github.com/PhilWililis"><img src="https://avatars2.githubusercontent.com/u/61602474?s=460&u=5241b6ba44a5b3a43820c609876479fed3eac4d9&v=4" title="PhilWililis" width="100" height="100"></a>
 
 
 
@@ -124,7 +124,7 @@ Please use the Issue Templates and the badges.
 - Copyright 2020 © <a href="https://github.com/therke" target="_blank">therke</a>.
 - Copyright 2020 © <a href="https://vagueinteractive.com" target="_blank">Vague Interactive</a>.
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/therke/bikercall)
 
 ---
 
@@ -137,5 +137,5 @@ Please use the Issue Templates and the badges.
 
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/therke/bikercall)
 
