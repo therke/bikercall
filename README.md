@@ -91,12 +91,12 @@ Reach out to me at one of the following places!
 
 - **How I can *download* the App?**
     - Visit the App Store for your Device.
+    (Coming Soon)
 
 - **Which language is supported?**
     - Currently German only.
     
-- **Why are their two differnt Versions?**
-    - One time their is a free Version (Up to 4 devices) and one paid Version (up to 20 devices) to improve the App's and pay the running costs.
+
 
 
 ---
