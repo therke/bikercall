@@ -53,11 +53,9 @@ Status: Currently in development - therefore no app available yet
 
 ## Changelog
 
-Reach out to me at one of the following places!
 
-- Android Changelog <a href="https://github.com/therke/bikercall/blob/master/Android/changelog.txt" target="_blank">`Press Here`</a>
+- Changelog <a href="https://github.com/therke/bikercall/blob/master/changelog.txt" target="_blank">`Press Here`</a>
 
-- iOS Changelog <a href="https://github.com/therke/bikercall/blob/master/iOS/changelog.txt" target="_blank">`Press Here`</a>
 
 ---
 
