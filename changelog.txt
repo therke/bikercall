@@ -1,0 +1,12 @@
+Changelog in general: 
+
+## [0.0.1] - 11.08.2020
+### Added
++ Changelog
++ Changed README.md
+
+Android changelog:
+
+
+
+iOS Changelog:
